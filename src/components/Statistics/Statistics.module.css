@@ -1,0 +1,13 @@
+.Stat__cont {
+  margin-top: 0;
+  padding: 0;
+  list-style: none;
+  text-align: left;
+}
+
+.Stat__value {
+  margin-bottom: 7px;
+  font-size: 18px;
+  font-weight: 400;
+  color: #000;
+}
